@@ -2,11 +2,13 @@
 ## Description
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
 
-**A project for analyzing my prompt history from two AI agents.**
+A project for **analyzing my prompt history from two AI agents.**
 
 ## Table of Contents
 
   [Motivation](#motivation)
+
+  [Tools](#tools)
  
   [Data Source and Preprocessing](#data-source-and-preprocessing)
  
@@ -23,6 +25,20 @@ Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Ter
 ## Motivation
 
 While trying to find a dataset for the project, I initially considered basic data such as the calories I consume daily or the steps I take daily. However, I wasn't satisfied with this because the data only went back a few weeks. Then, I had this brilliant idea: **to analyze my prompt history with AI agents**. Since ChatGPT was released, I’ve been using it extensively, and I started using Claude a few months ago. This meant I had the perfect dataset—almost two years' worth of data that continues to grow daily as I study and ask questions. Moreover, this dataset is very informative about me, so analyzing it will be a journey of self-discovery. (Nosce te ipsum).
+
+## Tools
+
+**ChatGPT and Claude:** Used to assist with almost all questions I have. They form the foundation of my project since I obtain my data from them.
+
+**Visual Studio Code:** For coding and implementing libraries.
+
+**Pandas:** Used for data cleaning and structuring.
+
+**Matplotlib:** For creating visualizations.
+
+**NumPy:** For performing mathematical operations.
+
+These are the tools I have used so far. I will update this list as needed.
 
 ## Data Source and Preprocessing
 
