@@ -31,6 +31,8 @@ My idea is that I can uncover various interesting insights from this data. These
 
 I also want to investigate how my wording has changed over time when interacting with AI. For example, do I use bad language with AI? If so, why and when? These are some of the key questions I’d like to explore.
 
+Another idea I have is to analyze how my AI usage has changed over time, from when I first started using it to the present.
+
 Furthermore, I plan to categorize my prompts into various topics, such as coding, personal development, entertainment, and academic inquiries. By analyzing these categories, I aim to identify patterns and trends in my interests and priorities over time. For instance, I want to see which topics I focus on most and how that focus shifts across different periods. This categorization will also help me better understand the relationship between my activities and significant life events.
 
 To complement my findings, I will create data visualizations to present these patterns and insights effectively. Graphs, charts, and other visual tools will help highlight trends in my interactions with AI over time, such as spikes in activity, shifts in focus across topics, and changes in language usage. These visualizations will make the data more engaging and accessible, helping to uncover insights at a glance.
