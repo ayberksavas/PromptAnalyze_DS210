@@ -38,9 +38,19 @@ Another idea I have is to analyze how my AI usage has changed over time, from wh
 
 Furthermore, I plan to categorize my prompts into various topics, such as coding, personal development, entertainment, and academic inquiries. By analyzing these categories, I aim to identify patterns and trends in my interests and priorities over time. For instance, I want to see which topics I focus on most and how that focus shifts across different periods. This categorization will also help me better understand the relationship between my activities and significant life events.
 
-#### Data Visualization Plans
+### Data Visualization Plans
 
-I plan to use various visualizations to effectively communicate the insights derived from my analysis and make the data more engaging and accessible. **Pie charts** will illustrate the distribution of my prompts across different categories, such as coding, entertainment, personal development, and academic inquiries, providing a clear overview of where my focus lies. **Heatmaps** will visualize how my daily usage hours are distributed, revealing patterns in my interaction times and highlighting peak activity periods. To track changes in my AI usage over time, I will use **line charts** to represent trends and fluctuations, offering a temporal perspective on my engagement with AI. Additionally, **word clouds** will display some of the most frequently used words in my prompts, capturing common themes and key areas of interest in a visually engaging manner. These visual tools will help highlight trends in my interactions with AI over time, such as spikes in activity, shifts in focus across topics, and changes in language usage, uncovering insights at a glance.
+To effectively communicate my findings, I plan to use the following visualizations:
+
+  **Pie Charts**: To show the distribution of prompts across categories like coding, personal development, entertainment, and academic inquiries.
+  
+  **Heatmaps**: To display daily usage patterns, revealing peak activity times.
+   
+  **Line Charts**: To track trends in AI usage over time, highlighting fluctuations and patterns.
+    
+  **Word Clouds**: To visualize the most frequently used words in my prompts, capturing key themes at a glance.
+
+These visual tools will help highlight trends such as spikes in activity, shifts in focus, and changes in language usage over time.
 
 These are the main aspects I’d like to work on, but I anticipate that new ideas might emerge during the analysis, leading me to add or remove topics as needed.
 
@@ -50,6 +60,6 @@ Here’s an interesting finding I discovered during a rough analysis of the data
 
 ![resim](https://github.com/user-attachments/assets/875a7d49-ca4c-4fb1-8fe0-da3404a0540e)
 
-There are some specific outliers, as you can see. One of them is April 24th, a Wednesday, when I interacted with AI agents over 300 times. Upon investigation, I realized this spike occurred because we had a CS201 homework deadline that night at 10 PM. It’s so sad that I wasted time chatting with AI agents instead of working on my homework.
+**-March 17th and 18th:** Over 250 interactions with AI agents across two consecutive days. Upon investigation, I found that **my girlfriend had a Python homework deadline on March 18th**. It’s such a pity that I spent time chatting with AI instead of helping her with her homework(!).
 
-Another instance is March 17th and 18th, when I interacted with AI over 250 times across two consecutive days. When I looked into what happened on those days, I found out that my girlfriend had a Python homework deadline on March 18th. Again, it’s such a pity that I spent my time chatting with AI all day instead of helping my girlfriend with her homework.
+**-April 24th:** Over 300 interactions with AI agents. This spike coincided with the **CS201 homework deadline** that night at 10 PM. Unfortunately, I wasted time chatting with AI instead of focusing on my own assignment(!).
