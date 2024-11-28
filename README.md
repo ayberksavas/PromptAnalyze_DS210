@@ -21,9 +21,9 @@ A project for analyzing my prompt history from two AI agents.
 
 While trying to find a dataset for the project, I initially considered basic data such as the calories I consume daily or the steps I take daily. However, I wasn't satisfied with this because the data only went back a few weeks. Then, I had this brilliant idea: to analyze my prompt history with AI agents. Since ChatGPT was released, I’ve been using it extensively, and I started using Claude a few months ago. This meant I had the perfect dataset—almost two years' worth of data that continues to grow daily as I study and ask questions. Moreover, this dataset is very informative about me, so analyzing it will be a journey of self-discovery. (Nosce te ipsum).
 
-## Data Source
+## Data Source and Preprocessing
 
-I am using my chat history from ChatGPT and Claude AI agents. The data I downloaded was in JSON format. Since I had two different ChatGPT accounts and one Claude account, I combined all the data into a single CSV file to make it more accessible.
+I am using my chat history from ChatGPT and Claude AI agents as the primary dataset for this project. I downloaded the data from both platforms in JSON format. Since I used two separate ChatGPT accounts and one Claude account, I had three JSON files in total. To make the data easier to analyze, I combined all the files into a single CSV file. However, this process required overcoming certain challenges due to structural and format differences between the datasets.
 
 ## Project Idea and Plan
 
@@ -35,7 +35,9 @@ Another idea I have is to analyze how my AI usage has changed over time, from wh
 
 Furthermore, I plan to categorize my prompts into various topics, such as coding, personal development, entertainment, and academic inquiries. By analyzing these categories, I aim to identify patterns and trends in my interests and priorities over time. For instance, I want to see which topics I focus on most and how that focus shifts across different periods. This categorization will also help me better understand the relationship between my activities and significant life events.
 
-To complement my findings, I will create data visualizations to present these patterns and insights effectively. Graphs, charts, and other visual tools will help highlight trends in my interactions with AI over time, such as spikes in activity, shifts in focus across topics, and changes in language usage. These visualizations will make the data more engaging and accessible, helping to uncover insights at a glance.
+#### Data Visualization Plans
+
+I plan to use various visualizations to effectively communicate the insights derived from my analysis and make the data more engaging and accessible. **Pie charts** will illustrate the distribution of my prompts across different categories, such as coding, entertainment, personal development, and academic inquiries, providing a clear overview of where my focus lies. **Heatmaps** will visualize how my daily usage hours are distributed, revealing patterns in my interaction times and highlighting peak activity periods. To track changes in my AI usage over time, I will use **line charts** to represent trends and fluctuations, offering a temporal perspective on my engagement with AI. Additionally, **word clouds** will display some of the most frequently used words in my prompts, capturing common themes and key areas of interest in a visually engaging manner. These visual tools will help highlight trends in my interactions with AI over time, such as spikes in activity, shifts in focus across topics, and changes in language usage, uncovering insights at a glance.
 
 These are the main aspects I’d like to work on, but I anticipate that new ideas might emerge during the analysis, leading me to add or remove topics as needed.
 
