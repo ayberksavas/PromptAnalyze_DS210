@@ -1,29 +1,31 @@
 # PromptAnalyze_DS210
-### Description
+## Description
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
 
 A project for analyzing my prompt history from two AI agents.
 
-### Table of Contents
+## Table of Contents
 
-Motivation
+- [Motivation](#motivation)
+ 
+- [Data Source](#data-source)
+ 
+- [Project Idea and Plan](#project-idea-and-plan)
+ 
 
-Data Source
-
-Project Idea and Plan
 
 
 
 
-### Motivation
+## Motivation
 
 While trying to find a dataset for the project, I initially considered basic data such as the calories I consume daily or the steps I take daily. However, I wasn't satisfied with this because the data only went back a few weeks. Then, I had this brilliant idea: to analyze my prompt history with AI agents. Since ChatGPT was released, I’ve been using it extensively, and I started using Claude a few months ago. This meant I had the perfect dataset—almost two years' worth of data that continues to grow daily as I study and ask questions. Moreover, this dataset is very informative about me, so analyzing it will be a journey of self-discovery. (Nosce te ipsum).
 
-### Data Source
+## Data Source
 
 I am using my chat history from ChatGPT and Claude AI agents. The data is in JSON format.
 
-### Project Idea and Plan
+## Project Idea and Plan
 
 My idea is that I can uncover various interesting insights from this data. These insights are not only about me but can also reveal specific deadlines or events that took place. Additionally, I aim to explore the journey of getting to know myself better. I plan to analyze how AI perceives me and how it might profile me based on the questions I’ve asked.
 
