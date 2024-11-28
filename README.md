@@ -2,15 +2,16 @@
 ## Description
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
 
-A project for analyzing my prompt history from two AI agents.
+**A project for analyzing my prompt history from two AI agents.**
 
 ## Table of Contents
 
-- [Motivation](#motivation)
+  [Motivation](#motivation)
  
-- [Data Source](#data-source)
+  [Data Source and Preprocessing](#data-source-and-preprocessing)
  
-- [Project Idea and Plan](#project-idea-and-plan)
+  [Project Idea and Plan](#project-idea-and-plan)
+- [Data Visualization Plans](#data-visualization-plans)
  
 
 
@@ -19,7 +20,7 @@ A project for analyzing my prompt history from two AI agents.
 
 ## Motivation
 
-While trying to find a dataset for the project, I initially considered basic data such as the calories I consume daily or the steps I take daily. However, I wasn't satisfied with this because the data only went back a few weeks. Then, I had this brilliant idea: to analyze my prompt history with AI agents. Since ChatGPT was released, I’ve been using it extensively, and I started using Claude a few months ago. This meant I had the perfect dataset—almost two years' worth of data that continues to grow daily as I study and ask questions. Moreover, this dataset is very informative about me, so analyzing it will be a journey of self-discovery. (Nosce te ipsum).
+While trying to find a dataset for the project, I initially considered basic data such as the calories I consume daily or the steps I take daily. However, I wasn't satisfied with this because the data only went back a few weeks. Then, I had this brilliant idea: **to analyze my prompt history with AI agents**. Since ChatGPT was released, I’ve been using it extensively, and I started using Claude a few months ago. This meant I had the perfect dataset—almost two years' worth of data that continues to grow daily as I study and ask questions. Moreover, this dataset is very informative about me, so analyzing it will be a journey of self-discovery. (Nosce te ipsum).
 
 ## Data Source and Preprocessing
 
@@ -29,7 +30,7 @@ I am using my chat history from ChatGPT and Claude AI agents as the primary data
 
 My idea is that I can uncover various interesting insights from this data. These insights are not only about me but can also reveal specific deadlines or events that took place. Additionally, I aim to explore the journey of getting to know myself better. I plan to analyze how AI perceives me and how it might profile me based on the questions I’ve asked.
 
-I also want to investigate how my wording has changed over time when interacting with AI. For example, do I use bad language with AI? If so, why and when? These are some of the key questions I’d like to explore.
+I also want to investigate how my wording has changed over time when interacting with AI. For example, do I use bad language with AI? If so, why and when? 
 
 Another idea I have is to analyze how my AI usage has changed over time, from when I first started using it to the present.
 
@@ -40,6 +41,8 @@ Furthermore, I plan to categorize my prompts into various topics, such as coding
 I plan to use various visualizations to effectively communicate the insights derived from my analysis and make the data more engaging and accessible. **Pie charts** will illustrate the distribution of my prompts across different categories, such as coding, entertainment, personal development, and academic inquiries, providing a clear overview of where my focus lies. **Heatmaps** will visualize how my daily usage hours are distributed, revealing patterns in my interaction times and highlighting peak activity periods. To track changes in my AI usage over time, I will use **line charts** to represent trends and fluctuations, offering a temporal perspective on my engagement with AI. Additionally, **word clouds** will display some of the most frequently used words in my prompts, capturing common themes and key areas of interest in a visually engaging manner. These visual tools will help highlight trends in my interactions with AI over time, such as spikes in activity, shifts in focus across topics, and changes in language usage, uncovering insights at a glance.
 
 These are the main aspects I’d like to work on, but I anticipate that new ideas might emerge during the analysis, leading me to add or remove topics as needed.
+
+## Preview
 
 Here’s an interesting finding I discovered during a rough analysis of the data:
 
