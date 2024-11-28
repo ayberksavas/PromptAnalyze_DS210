@@ -12,6 +12,8 @@ Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Ter
  
   [Project Idea and Plan](#project-idea-and-plan)
 - [Data Visualization Plans](#data-visualization-plans)
+
+[Preview](#preview)
  
 
 
