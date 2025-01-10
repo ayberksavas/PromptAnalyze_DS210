@@ -2,6 +2,8 @@
 ## Description
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
 
+Here is my presentation video: https://drive.google.com/drive/folders/1ZMlPi14MowiAuxD7I3tGQ_dQSvvXjYND?usp=drive_link 
+
 A project for **analyzing my prompt history from two AI agents.**
 
 ## Table of Contents
