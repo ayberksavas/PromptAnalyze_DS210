@@ -38,6 +38,10 @@ While trying to find a dataset for the project, I initially considered basic dat
 
 **NumPy:** For performing mathematical operations.
 
+**Seaborn**:For data visualization(heatmaps)
+
+**Wordcloud**:For creating word clouds about chat history
+
 These are the tools I have used so far. I will update this list as needed.
 
 ## Data Source and Preprocessing
